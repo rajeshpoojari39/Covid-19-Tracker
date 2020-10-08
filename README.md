@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Covid 19 Tracker 
+
+This project was made with ReactJS and disease.sh api .
 
 ## Available Scripts
 
