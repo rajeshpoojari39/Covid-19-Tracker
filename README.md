@@ -2,6 +2,8 @@
 
 This project was made with ReactJS and disease.sh api .
 
+[Click here to checkout the live website.](https://covid-19-tracker-e7ab9.web.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
